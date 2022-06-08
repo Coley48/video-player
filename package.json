@@ -1,0 +1,24 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "It's a personal video player app which launch in local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coley48/video-player.git"
+  },
+  "keywords": [],
+  "author": "Coley48",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coley48/video-player/issues"
+  },
+  "homepage": "https://github.com/Coley48/video-player#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
